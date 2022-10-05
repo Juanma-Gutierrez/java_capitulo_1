@@ -8,13 +8,13 @@
 
 public class Ejercicio09 {
     public static void main(String args[]) {
-        System.out.println("    ███████████    ");
-        System.out.println("  ██▒▒▒▒▒▒▒▒▒▒▒██  ");
-        System.out.println("██▒▒▒▒█▒▒▒▒▒█▒▒▒▒██");
-        System.out.println("█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█");
-        System.out.println("█▒▒▒█▒▒▒▒▒▒▒▒▒█▒▒▒█");
-        System.out.println("██▒▒▒█████████▒▒▒██");
-        System.out.println("  ██▒▒▒▒▒▒▒▒▒▒▒██  ");
-        System.out.println("    ███████████    ");
+        System.out.println("    ███████████                  ");
+        System.out.println("  ██▒▒▒▒▒▒▒▒▒▒▒██                ");
+        System.out.println("██▒▒▒▒█▒▒▒▒▒█▒▒▒▒██   Bienvenido ");
+        System.out.println("█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█      a la    ");
+        System.out.println("█▒▒▒█▒▒▒▒▒▒▒▒▒█▒▒▒█  programación");
+        System.out.println("██▒▒▒█████████▒▒▒██    en JAVA   ");
+        System.out.println("  ██▒▒▒▒▒▒▒▒▒▒▒██                ");
+        System.out.println("    ███████████                  ");
     }
 }
