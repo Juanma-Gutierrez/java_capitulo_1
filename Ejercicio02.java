@@ -1,5 +1,5 @@
 /*
-* Ejercicio 2
+* Exercise 2
 * Created: 05/10/2022 13:19
 * 
 * Author: Juan Manuel Gutiérrez
