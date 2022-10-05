@@ -1,6 +1,6 @@
 /*
-* Exercise: 7
-* Created: 05/10/2022 14:12
+* Exercise: 8
+* Created: 05/10/2022 14:19
 * 
 * Author: Juan Manuel Gutiérrez
 * https://github.com/Juanma-Gutierrez
@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class Ejercicio07 {
+public class Ejercicio08 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduce la altura de la pirámide: ");
@@ -16,7 +16,7 @@ public class Ejercicio07 {
         if (alt <= 0) {
             System.out.print("Ha introducido una altura no válida: ");
         } else {
-            for (int i = 1; i <= alt; i++) {
+            for (int i = alt; i >= 1; i--) {
                 for (int j = 1; j <= alt - i; j++) {
                     System.out.print(" ");
                 }
