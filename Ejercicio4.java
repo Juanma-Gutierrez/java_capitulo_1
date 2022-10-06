@@ -6,7 +6,7 @@
 * https://github.com/Juanma-Gutierrez
 */
 
-public class Ejercicio04 {
+public class Ejercicio4 {
     public static void main(String args[]) {
         System.out.println("+-------------+-----------+-----------+-----------+-----------+-----------+");
         System.out.println("|    Hora     |   Lunes   |   Martes  | Miércoles |   Jueves  |  Viernes  |");

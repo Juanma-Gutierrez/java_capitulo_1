@@ -6,7 +6,7 @@
 * https://github.com/Juanma-Gutierrez
 */
 
-public class Ejercicio02 {
+public class Ejercicio2 {
     public static void main(String args[]) {
         System.out.println("Juan Manuel Gutierrez");
         System.out.println("C/ Frederick Termann, s/n - PTA Malaga - Campanillas - Malaga");

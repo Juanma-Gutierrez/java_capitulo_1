@@ -6,7 +6,7 @@
 * https://github.com/Juanma-Gutierrez
 */
 
-public class Ejercicio03 {
+public class Ejercicio3 {
     public static void main(String args[]) {
         System.out.println("computer\tordenador");
         System.out.println("student\talumno\\a");
