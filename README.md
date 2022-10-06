@@ -44,7 +44,7 @@ Mejora el ejercicio anterior añadiéndole colores.
 
 ## Configuarción de los ficheros:
 
-java_capitulo_1
+### java_capitulo_1
 - Ejercicio1.java
 - Ejercicio2.java
 - ...
