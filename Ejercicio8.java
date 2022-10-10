@@ -1,10 +1,11 @@
+
 /**
-* Exercise: 8
-* @version: 05/10/2022 14:19
-* 
-* @author: Juan Manuel Gutiérrez
-* https://github.com/Juanma-Gutierrez
-*/
+ * Exercise: 8
+ * 
+ * @version: 05/10/2022 14:19
+ * @author: Juan Manuel Gutiérrez
+ * https://github.com/Juanma-Gutierrez
+ */
 
 import java.util.Scanner;
 

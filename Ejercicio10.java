@@ -1,10 +1,10 @@
 /**
-* Exercise: 10
-* @version: 05/10/2022 14:36
-* 
-* @author: Juan Manuel Gutiérrez
-* https://github.com/Juanma-Gutierrez
-*/
+ * Exercise: 10
+ * 
+ * @version: 05/10/2022 14:36
+ * @author: Juan Manuel Gutiérrez
+ *          https://github.com/Juanma-Gutierrez
+ */
 
 public class Ejercicio10 {
     public static void main(String args[]) {
