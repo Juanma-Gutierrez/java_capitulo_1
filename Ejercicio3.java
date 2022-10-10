@@ -8,15 +8,14 @@
 
 public class Ejercicio3 {
     public static void main(String args[]) {
-        System.out.println("computer\tordenador");
-        System.out.println("student\talumno\\a");
-        System.out.println("cat\tgato");
-        System.out.println("penguin\tpingüino");
-        System.out.println("machine\tmáquina");
-        System.out.println("nature\tnaturaleza");
-        System.out.println("light\tluz");
-        System.out.println("green\tverde");
-        System.out.println("book\tlibro");
-        System.out.println("pyramid\tpirámide");
+        System.out.printf("%-10s %s\n", "computer", "ordenador");
+        System.out.printf("%-10s %s\n", "student", "alumno");
+        System.out.printf("%-10s %s\n", "penguin", "pingüino");
+        System.out.printf("%-10s %s\n", "machine", "máquina");
+        System.out.printf("%-10s %s\n", "nature", "naturaleza");
+        System.out.printf("%-10s %s\n", "light", "luz");
+        System.out.printf("%-10s %s\n", "green", "verde");
+        System.out.printf("%-10s %s\n", "book", "libro");
+        System.out.printf("%-10s %s\n", "pyramid", "pirámide");
     }
 }
