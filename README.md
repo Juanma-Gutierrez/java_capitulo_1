@@ -1,5 +1,9 @@
 # java_capitulo_1
 
+Soluciones a los ejercicios del libro **Aprende Java con ejercicios** de Luis José Sánchez (*Edición 2019*).
+
+Este libro está a la venta en https://leanpub.com/aprendejava
+
 ### Ejercicio 1
 Escribe una programa que muestre tu nombre por pantalla.
 
