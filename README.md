@@ -1,15 +1,17 @@
 # java_capitulo_1
 
-Soluciones a los ejercicios del libro **Aprende Java con ejercicios** de Luis José Sánchez (*Edición 2019*).
+Soluciones a los ejercicios del libro **Aprende Java con ejercicios** de Luis José Sánchez (_Edición 2019_).
 
 Este libro está a la venta en https://leanpub.com/aprendejava
 
 ### Ejercicio 1
+
 Escribe una programa que muestre tu nombre por pantalla.
 
     Juan Manuel Gutiérrez
 
 ### Ejercicio 2
+
 Modifica el programa anterior para que además se muestre tu dirección y tu número de teléfono. Asegúrate de que los datos se muestran en líneas separadas.
 
     Juan Manuel Gutierrez
@@ -17,10 +19,11 @@ Modifica el programa anterior para que además se muestre tu dirección y tu nú
     952.11.22.33
 
 ### Ejercicio 3
+
 Escribe un programa que muestre por pantalla 10 palabras en inglés junto a su correspondiente traducción al castellano. Las palabras deben estar distribuidas en dos columnas y alineadas a la izquierda
 
     computer   ordenador
-    student    alumno   
+    student    alumno
     penguin    pingüino
     machine    máquina
     nature     naturaleza
@@ -30,6 +33,7 @@ Escribe un programa que muestre por pantalla 10 palabras en inglés junto a su c
     pyramid    pirámide
 
 ### Ejercicio 4
+
 Escribe un programa que muestre tu horario de clase.
 
     +-------------+-----------+-----------+-----------+-----------+-----------+
@@ -42,7 +46,9 @@ Escribe un programa que muestre tu horario de clase.
     | 12:45-13:45 |   BBDD    | Programa. |   BBDD    |   BBDD    | Sist.Inf. |
     | 13:45-14:45 |   BBDD    | Ent.Desa. |   BBDD    |   BBDD    | Sist.Inf. |
     +-------------+-----------+-----------+-----------+-----------+-----------+
+
 ### Ejercicio 5
+
 Modifica el programa anterior añadiendo colores. Puedes mostrar cada asignatura de un color diferente.
 
     +-------------+-----------+-----------+-----------+-----------+-----------+
@@ -55,7 +61,9 @@ Modifica el programa anterior añadiendo colores. Puedes mostrar cada asignatura
     | 12:45-13:45 |   BBDD    | Programa. |   BBDD    |   BBDD    | Sist.Inf. |
     | 13:45-14:45 |   BBDD    | Ent.Desa. |   BBDD    |   BBDD    | Sist.Inf. |
     +-------------+-----------+-----------+-----------+-----------+-----------+
+
 ### Ejercicio 6
+
 Escribe un programa que pinte por pantalla una pirámide rellena a base de asteriscos. La base de la pirámide debe estar formada por 9 asteriscos.
 
     Introduce la altura de la pirámide: 9
@@ -68,7 +76,9 @@ Escribe un programa que pinte por pantalla una pirámide rellena a base de aster
       *************
      ***************
     *****************
+
 ### Ejercicio 7
+
 Igual que el programa anterior, pero esta vez la pirámide estará hueca (se debe ver únicamente el contorno hecho con asteriscos).
 
     Introduce la altura de la pirámide: 9
@@ -81,7 +91,9 @@ Igual que el programa anterior, pero esta vez la pirámide estará hueca (se deb
       *           *
      *             *
     *****************
+
 ### Ejercicio 8
+
 Igual que el programa anterior, pero esta vez la pirámide debe aparecer invertida, con el vértice hacia abajo.
 
     Introduce la altura de la pirámide: 9
@@ -94,7 +106,9 @@ Igual que el programa anterior, pero esta vez la pirámide debe aparecer inverti
           *   *
            * *
             *
+
 ### Ejercicio 9
+
 Escribe un programa que pinte por pantalla alguna escena - el campo, la habitación de una casa, un aula, etc. - o algún objeto animado o inanimado - un coche, un gato, una taza de café, etc. Ten en cuenta que puedes utilizar caracteres como \*, +, <, #, @, etc. o incluso caracteres Unicode. ¡Échale imaginación!
 
         ███████████
@@ -105,7 +119,9 @@ Escribe un programa que pinte por pantalla alguna escena - el campo, la habitaci
     ██▒▒▒█████████▒▒▒██    en JAVA
       ██▒▒▒▒▒▒▒▒▒▒▒██
         ███████████
+
 ### Ejercicio 10
+
 Mejora el ejercicio anterior añadiéndole colores.
 
         ███████████
