@@ -4,18 +4,20 @@ Soluciones a los ejercicios del libro **Aprende Java con ejercicios** de Luis Jo
 
 Este libro está a la venta en https://leanpub.com/aprendejava
 
+![image](https://user-images.githubusercontent.com/101201349/198890431-a5598843-2252-4e82-a764-bb1380121200.png)
+
 ## Listado de ejercicios
 
-[01 Ejercicio 1](#ejercicio-1)
-[02 Ejercicio 2](#ejercicio-2)
-[03 Ejercicio 3](#ejercicio-3)
-[04 Ejercicio 4](#ejercicio-4)
-[05 Ejercicio 5](#ejercicio-5)
-[06 Ejercicio 6](#ejercicio-6)
-[07 Ejercicio 7](#ejercicio-7)
-[08 Ejercicio 8](#ejercicio-8)
-[09 Ejercicio 9](#ejercicio-9)
-[10 Ejercicio 10](#ejercicio-10)
+- [01 Ejercicio 1](#ejercicio-1)
+- [02 Ejercicio 2](#ejercicio-2)
+- [03 Ejercicio 3](#ejercicio-3)
+- [04 Ejercicio 4](#ejercicio-4)
+- [05 Ejercicio 5](#ejercicio-5)
+- [06 Ejercicio 6](#ejercicio-6)
+- [07 Ejercicio 7](#ejercicio-7)
+- [08 Ejercicio 8](#ejercicio-8)
+- [09 Ejercicio 9](#ejercicio-9)
+- [10 Ejercicio 10](#ejercicio-10)
 
 ### Ejercicio 1
 
@@ -85,7 +87,7 @@ Modifica el programa anterior añadiendo colores. Puedes mostrar cada asignatura
 +-------------+-----------+-----------+-----------+-----------+-----------+
 ```
 
-Ejercicio 6
+### Ejercicio 6
 
 Escribe un programa que pinte por pantalla una pirámide rellena a base de asteriscos. La base de la pirámide debe estar formada por 9 asteriscos.
 
@@ -119,7 +121,7 @@ Introduce la altura de la pirámide: 9
 *****************
 ```
 
-Ejercicio 8
+### Ejercicio 8
 
 Igual que el programa anterior, pero esta vez la pirámide debe aparecer invertida, con el vértice hacia abajo.
 
