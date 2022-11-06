@@ -13,6 +13,7 @@
  */
 public class Ejercicio3 {
     public static void main(String args[]) {
+        // Output results
         System.out.printf("%-10s %s\n", "computer", "ordenador");
         System.out.printf("%-10s %s\n", "student", "alumno");
         System.out.printf("%-10s %s\n", "penguin", "pingüino");

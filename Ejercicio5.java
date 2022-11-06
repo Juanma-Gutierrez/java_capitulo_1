@@ -13,6 +13,7 @@
 
 public class Ejercicio5 {
         public static void main(String args[]) {
+                // Output results
                 System.out.println("+-------------+-----------+-----------+-----------+-----------+-----------+");
                 System.out.println("|    Hora     |   Lunes   |   Martes  | Miércoles |   Jueves  |  Viernes  |");
                 System.out.println("+-------------+-----------+-----------+-----------+-----------+-----------+");

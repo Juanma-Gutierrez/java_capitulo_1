@@ -15,9 +15,17 @@ import java.util.Scanner;
 
 public class Ejercicio6 {
     public static void main(String args[]) {
+        // Var declarations
+        int alt;
+
+        // Scanner class
         Scanner sc = new Scanner(System.in);
+
+        // Input data
         System.out.print("Introduce la altura de la pirámide: ");
-        int alt = sc.nextInt();
+        alt = sc.nextInt();
+
+        // Process
         if (alt <= 0) {
             System.out.print("Ha introducido una altura no válida: ");
         } else {
@@ -31,6 +39,8 @@ public class Ejercicio6 {
                 System.out.println("");
             }
         }
+
+        // Close scanner
         sc.close();
     }
 }

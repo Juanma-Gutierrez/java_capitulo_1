@@ -12,6 +12,7 @@
 
 public class Ejercicio10 {
     public static void main(String args[]) {
+        // Output data
         System.out.print("\033[33m");
         System.out.println("    ███████████                  ");
         System.out.println("  ██▒▒▒▒▒▒▒▒▒▒▒██                ");
